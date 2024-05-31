@@ -1,6 +1,7 @@
 token:
-  expiration_time: 86400000 # 1 Day ((60*60*24)*1000)
-  secret: my_token_default
+  expiration_time: 86400000
+  secret: '{cipher}AQAfrUWHajWzdEg7JMHKXAznAHKC+2UY/L9ezib8zugRMx6dA3/GZZtZAf0h5FDhUAi61NLLMbcWk6zXAQm8a1EmfrUmORmg5l5Fh86d6HWb0wPOfOHKmwlDEKH3NjotweXRb3Z7GeqUvnEJ74jn6UMTHGF6OynnLko19XayRWypkqGPAOBK9zBc7+c9nv85Zwdgz9Mh7senXO8iG+0dgxCxtrEGJj7/4W6ZDDXiM+77rXUnBlcaLujYnwVFX8Jg/zbwy2WXvufo0FshwGx0FPRocVvOz3Mhvo65deS+Cu9LSqm0QXKVp4jve3qBtly6x4KSpp15Kzy6BKfZfszPOScYa3c9y3lTR+UaPYv0xj2rO9zyG7/jORYek/PHYwbtyH79OpWumod/m8xCRXypzwn1'
 
 gateway:
-  ip: 192.168.1.69
+  ip: 192.168.1.69  
+
